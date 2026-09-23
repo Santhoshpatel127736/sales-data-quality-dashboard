@@ -1,0 +1,121 @@
+order_id,order_date,customer_name,product,category,quantity,unit_price,region
+ORD0001,2025-05-21,Priya,Mouse,Electronics,4,23.62,North
+ORD0002,2025-10-30,Priya,Backpack,Accessories,7,49.85,North
+ORD0003,2025-09-16,Arjun,Monitor,Electronics,1,182.2,South
+ORD0004,2025-08-18,Aarav,Notebook,Stationery,5,6.37,South
+ORD0005,2025-06-24,,Keyboard,Electronics,5,41.9,West
+ORD0006,2025-07-14,Ananya,Mouse,Electronics,2,24.29,North
+ORD0007,2025-01-23,Kiran,Headphones,Accessories,8,80.58,East
+ORD0008,2025-11-18,Priya,Mouse,Electronics,6,25.39, north 
+ORD0009,2025-05-29,Priya,Laptop,Electronics,2,696.19,South
+ORD0010,2025-08-21,Ananya,Notebook,Stationery,6,5.6,East
+ORD0011,2025-12-26,Rahul,Monitor,Electronics,2,183.93,East
+ORD0012,2025-03-25,Arjun,Backpack,Accessories,8,53.67,South
+ORD0013,2025-99-99,Ananya,Monitor,Electronics,4,191.58,East
+ORD0014,2025-02-03,Meera,Notebook,Stationery,4,6.5,East
+ORD0015,2025-12-02,Neha,Desk,Furniture,8,215.41,South
+ORD0016,2025-03-13,Arjun,Keyboard,electronics,4,47.2,East
+ORD0017,2025-10-26,Rahul,Desk Chair,Furniture,7,136.14,West
+ORD0018,2025-02-16,Rahul,,Accessories,1,58.97,West
+ORD0019,2025-11-02,Meera,Keyboard,Electronics,2,43.96,West
+ORD0020,2025-10-11,Priya,Pen Set,Stationery,1,10.36,East
+ORD0021,2025-11-25,Kiran,Backpack,Accessories,6,50.73,East
+ORD0022,2025-01-02,Rahul,Keyboard,Electronics,-3,49.25,West
+ORD0023,2025-11-17,Arjun,Backpack,Accessories,5,58.76,North
+ORD0024,2025-03-20,Arjun,Headphones,Accessories,6,84.2,South
+ORD0025,2025-11-03,Priya,Backpack,Accessories,6,54.87,North
+ORD0026,2025-05-03,Meera,Desk,Furniture,1,208.6,East
+ORD0027,2025-09-06,Arjun,Mouse,Electronics,2,27.39,North
+ORD0028,2025-12-04,Rahul,Keyboard,Electronics,8,49.02,South
+ORD0029,2025-04-19,Kiran,Desk Chair,Furniture,4,145.96,NORTH
+ORD0030,2025-09-22,Sneha,Desk,Furniture,8,203.32,West
+ORD0031,2025-01-11,Aarav,Mouse,Electronics,4,25.44,East
+ORD0032,2025-04-28,Ananya,Mouse,Electronics,2,27.03,North
+ORD0033,2025-05-23,Rahul,Mouse,Electronics,8,23.57,South
+ORD0034,2025-05-05,Sneha,Headphones,Accessories,8,84.92,
+ORD0035,2025-12-04,Kiran,Mouse,Electronics,7,24.27,North
+ORD0036,2025-12-11,Ananya,Pen Set,Stationery,2,9.12,North
+ORD0037,2025-04-09,Rahul,Mouse,Electronics,4,25.18,South
+ORD0038,2025-05-23,Priya,Notebook, FURNITURE ,8,5.7,South
+ORD0039,2025-01-26,Sneha,Pen Set,Stationery,1,10.94,North
+ORD0040,2025-09-06,Kiran,Keyboard,Electronics,8,42.42,West
+ORD0041,2025-07-14,Vikram,Laptop,Electronics,1,713.09,South
+ORD0042,2025-08-05,Vikram,Pen Set,Stationery,8,9.31,East
+ORD0043,2025-10-24,Aarav,Monitor,Electronics,1,188.93,North
+ORD0044,2025-09-15,Arjun,Laptop,Electronics,3,592.39,West
+ORD0045,2025-02-05,Sneha,Mouse,Electronics,2,-25.5,South
+ORD0046,2025-10-19,Aarav,Notebook,Stationery,4,6.09,North
+ORD0047,2025-08-03,Sneha,Headphones,Accessories,6,86.96,North
+ORD0048,2025-05-16,Vikram,Desk,Furniture,7,203.76,South
+ORD0049,2025-02-07,Meera,Pen Set,,1,9.92,East
+ORD0050,2025-10-03,Rahul,Mouse,Electronics,4,25.03,North
+ORD0051,2025-05-06,Neha,Desk,Furniture,6,210.54,North
+ORD0052,2025-11-10,Arjun,Backpack,Accessories,1,56.85,East
+ORD0053,2025-03-10,Priya,Desk Chair,Furniture,5,129.23,south
+ORD0054,2025-05-20,Ananya,Backpack,Accessories,5,56.15,South
+ORD0055,2025-09-16,Aarav,Monitor,Electronics,8,171.04,East
+ORD0056,2025-05-22,Rahul,Mouse,Electronics,1,22.52,West
+ORD0057,2025-08-15,Priya,Desk Chair,Furniture,7,141.71,South
+ORD0058,2025-10-07,Meera,Mouse,Electronics,1,26.67,South
+ORD0059,2025-08-09,Ananya,Backpack,Accessories,3,49.96,South
+ORD0060,2025-04-18,Ananya,Laptop,Electronics,4,671.7,East
+ORD0061,2025-11-14,Sneha,Backpack,Accessories,3,59.68,West
+ORD0062,not-a-date,Ananya,Keyboard,Electronics,1,42.11,South
+ORD0063,2025-05-17,Priya,Notebook,Stationery,3,6.34,South
+ORD0064,2025-08-29,Neha,Notebook,Stationery,4,5.64,North
+ORD0065,2025-04-27,Sneha,Desk,Furniture,4,199.04,East
+ORD0066,2025-05-23,Vikram,Notebook,Stationery,2,6.56,East
+ORD0067,2025-12-14,Priya,Desk,stationery,6,239.33,West
+ORD0068,2025-10-25,Meera,Desk Chair,Furniture,5,127.07,South
+ORD0069,2025-06-10,Arjun,Notebook,Stationery,7,6.13,East
+ORD0070,2025-10-23,Kiran,Mouse,Electronics,4,23.77,West
+ORD0011,2025-07-06,Ananya,Laptop,Electronics,7,594.1,South
+ORD0072,2025-12-06,Vikram,Headphones,Accessories,2,83.52,East
+ORD0073,2025-12-08,Vikram,Backpack,Accessories,7,53.09,East
+ORD0074,2025-04-09,Kiran,Backpack,Accessories,7,56.81,South
+ORD0075,2025-07-27,Sneha,Keyboard,Electronics,1,43.23,East
+ORD0076,2025-08-27,Sneha,Notebook,Stationery,8,5.93,East
+ORD0077,2025-03-28,Meera,Backpack,Accessories,0,52.62,West
+ORD0078,2025-05-01,Sneha,Desk,Furniture,5,207.88,North
+ORD0079,2025-01-24,Meera,Keyboard,Electronics,4,49.36,North
+ORD0080,2025-08-01,Kiran,Mouse,Electronics,4,26.09,West
+ORD0081,2025-05-05,Aarav,Pen Set,Stationery,3,10.31,West
+ORD0082,2025-04-23,Arjun,Mouse,Electronics,3,26.52,WEST
+ORD0083,2025-10-13,Priya,Pen Set,Stationery,4,10.83,North
+ORD0084,2025-08-26,Neha,Pen Set,Stationery,6,10.9,South
+ORD0085,2025-10-08,Neha,Headphones,Accessories,8,86.36,West
+ORD0086,2025-05-07,Arjun,Pen Set,Stationery,5,10.53,East
+ORD0087,2025-05-21,Vikram,Pen Set,Stationery,8,9.15,South
+ORD0088,2025-06-21,Priya,Monitor,Electronics,6,194.15,East
+ORD0089,2025-04-29,Sneha,Keyboard,Electronics,7,46.75,South
+ORD0090,2025-07-28,Kiran,Mouse,Electronics,6,25.21,West
+ORD0026,2025-08-04,Meera,Laptop,Electronics,7,702.63,South
+ORD0092,2025-09-02,Vikram,Laptop,Electronics,1,707.56,West
+ORD0093,2025-10-03,Vikram,Notebook,Stationery,4,5.99,West
+ORD0094,2025-01-15,Kiran,Notebook,Stationery,7,5.8,West
+ORD0095,2025-03-07,Meera,Keyboard,Electronics,1,48.66,West
+ORD0096,2025-02-12,Neha,Headphones,Accessories,7,74.17,North
+ORD0097,2025-05-14,Neha,Keyboard,Electronics,7,43.45,North
+ORD0098,2025-07-14,Kiran,Desk,Furniture,5,231.09,East
+ORD0099,2025-08-29,Aarav,Desk Chair,Furniture,1,146.97,North
+ORD0100,2025-11-29,Aarav,Desk,Furniture,2,232.37,South
+ORD0101,2025-04-13,Sneha,Laptop,Electronics,1,665.77,South
+ORD0102,2025-12-09,Sneha,Keyboard,Electronics,2,45.58,West
+ORD0103,2025-07-08,Priya,Pen Set,Stationery,3,10.21,East
+ORD0104,2025-02-25,Meera,Keyboard,Electronics,1,0,East
+ORD0105,2025-04-12,Sneha,Notebook,Stationery,2,6.11,West
+ORD0106,2025-12-17,Meera,Mouse,Electronics,2,26.48,East
+ORD0107,2025-09-30,Priya,Laptop,Electronics,7,671.0,East
+ORD0108,2025-01-07,Priya,Backpack,Accessories,7,58.55,East
+ORD0109,2025-11-22,Kiran,Notebook,Stationery,8,6.25,East
+ORD0110,2025-11-12,Meera,Keyboard,Electronics,8,44.68,East
+ORD0111,2025-05-06,Neha,Desk Chair,Furniture,2,133.81,East
+ORD0112,2025-10-19,Neha,Monitor,Electronics,7,174.11,West
+ORD0113,2025-09-07,Vikram,Desk,Furniture,4,213.61,South
+ORD0114,2025-11-02,Arjun,Desk,Furniture,5,222.45,East
+ORD0115,2025-05-04,Sneha,Monitor,Electronics,7,179.59,North
+ORD0116,2025-08-18,Sneha,Pen Set,Stationery,1,9.19,West
+ORD0117,2025-06-06,Arjun,Notebook,Stationery,6,5.97,South
+ORD0118,2025-10-09,Neha,Desk,Furniture,6,213.48,West
+ORD0119,2025-05-09,Sneha,Desk Chair,Furniture,4,129.38,East
+ORD0120,2025-10-02,Neha,Desk,Furniture,3,206.43,North

@@ -1,0 +1,11 @@
+{
+  "total_rows_processed": 120,
+  "valid_rows": 108,
+  "rejected_rows": 12,
+  "duplicate_records": 2,
+  "missing_values": 6,
+  "invalid_dates": 2,
+  "invalid_numeric_values": 4,
+  "input_file": "data\\sales.csv",
+  "output_file": "cleaned_sales.csv"
+}
